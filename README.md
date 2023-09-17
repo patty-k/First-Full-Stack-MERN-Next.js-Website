@@ -1,5 +1,5 @@
 # First-Full-Stack-MERN-Next.js-Website
-With the help of JavaScript Mastery on youtube, I created my first MERN based website with substitution of Next.js for Node and Express. 
+With the help of a youtube tutorial, I created my first MERN-based website with substitution of Next.js for Node and Express. 
 ## Demo of the Application (Timestamp: 0:34 - 2:17) 
 https://www.youtube.com/watch?v=O5cmLDVTgAs
 ## Summary
